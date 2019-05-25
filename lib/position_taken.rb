@@ -4,4 +4,5 @@ def position_taken(array, index)
     return false;
   else
     return true;
+  end
 end
